@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "id": 0,
+      "nombre": "Pastel de Vainilla ",
+      "precio": "100"
+    },
+    {
+      "nombre": "Pastel de Zanahoria",
+      "precio": "45",
+      "id": 4
+    },
+    {
+      "nombre": "Pastel de Chocolate",
+      "precio": "60",
+      "id": 5
+    },
+    {
+      "nombre": "Mac Pro",
+      "precio": "2500",
+      "id": "68f96f10-1bc7-11e9-ad3f-5b712d9af463"
+    },
+    {
+      "nombre": "Lavadora",
+      "precio": "500",
+      "id": "9557fa00-1c6b-11e9-aaff-0db39f0c2f1b"
+    },
+    {
+      "nombre": "Zanahoria",
+      "precio": "12",
+      "id": "61af1500-1ca0-11e9-ad8c-5b21bc20fc1a"
+    },
+    {
+      "nombre": "Alfobre",
+      "precio": "10502",
+      "id": "6c92b5d0-1ca0-11e9-ad8c-5b21bc20fc1a"
+    }
+  ]
+}
